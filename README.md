@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/Mubashirsw27/Mubashirsw27/blob/main/resources/img/waving.gif">, I am Mubashir Ibrahim</h1>
-<h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
+<h1 align="center">السلام عليكم 👋  <br> I am Mubashir Ibrahim😄</h1>
+
 </div>
 
 <div align="center">
@@ -8,6 +8,7 @@
   <img  src="./Profile.png"
        alt="ME" /></a>
 </div>
+<h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
 
 <div align="center">
   <a href="https://github.com/Mubashirsw27">
@@ -15,8 +16,7 @@
        alt="snake" /></a>
 </div>
 
-<details>
-  <summary>☎️ Contact me</summary>
+<br>
 <div>
   <samp>
     <h2 align="center">😎 You can contact me on:</h2>
@@ -46,10 +46,7 @@
     </p>
   </samp>
 </div>
-</details>
-
-<details>
-  <summary>🧮 About</summary>
+<br>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
@@ -69,9 +66,9 @@
      alt="repos" /></a>
  </p>
 </div>
-</details>
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+
+<br>
+ 
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
@@ -87,14 +84,14 @@
        </p>
      <br>
   </div>    
-</details>
 
-<details>
-  <summary>📈 Activity Graph</summary>
+<br>
+
+ 
   <br/>
-  <h2 align="center"> my current activity </h2>
+  <h2 align="center">📈 Activity Graph</h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Mubashirsw27&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
+
 
 ------
 Credit: [For Such Amazing Content & Templates Visit Azzar Profile:](https://github.com/1999azzar)
