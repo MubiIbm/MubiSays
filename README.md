@@ -1,17 +1,18 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Mubashir Ibrahim</h1>
-<h4 align="center">a freelance developer, Software Engineer, and Open Source Contributor.</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/Mubashirsw27/Mubashirsw27/blob/main/resources/img/waving.gif">, I am Mubashir Ibrahim</h1>
+<h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Mubashirsw27">
+  <img  src="./Profile.png"
+       alt="ME" /></a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Mubashirsw27">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
-<div align="center" borderRadius="10px">
-  <a href="https://github.com/Mubashirsw27">
-  <img  src="./Profile.png"
-       alt="ME" /></a>
 </div>
 
 <details>
