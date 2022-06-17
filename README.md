@@ -28,9 +28,9 @@
       <a href="https://www.facebook.com/mubashir.qureshi.583" target="_blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://mailto:mubashiribrahim2019@gmail.com" target="_blank"><img align="center"
+      <a href="https://mailto:mubashiribrahim2019@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="Mubashir" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://www.instagram.com/mubi.says/?hl=en" target="_blank"><img align="center"
