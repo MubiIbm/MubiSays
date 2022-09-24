@@ -4,14 +4,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Mubashirsw27">
+  <a href="https://github.com/MubiSays">
   <img  src="./Profile.png"
        alt="ME" /></a>
 </div>
 <h4 align="center">a Freelance Developer, Software Engineer, and Open Source Contributor.</h4>
 
 <div align="center">
-  <a href="https://github.com/Mubashirsw27">
+  <a href="https://github.com/MubiSays">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -50,19 +50,19 @@
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  <a href="https://github.com/Mubashirsw27" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/Mubashirsw27/Mubashirsw27?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
+  <a href="https://github.com/MubiSays" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/visits/MubiSays/MubiSays?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
-  <a href="github.com/Mubashirsw27" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/Mubashirsw27/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+  <a href="github.com/MubiSays" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/years/MubiSays/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
      alt="account age" /></a>
   </p>
   <p align="center">
-  <a href="github.com/Mubashirsw27" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/Mubashirsw27/Mubashirsw27?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
+  <a href="github.com/MubiSays" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/updated/MubiSays/MubiSays?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
      alt="updated" /></a>
-  <a href="github.com/Mubashirsw27" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/Mubashirsw27/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+  <a href="github.com/MubiSays" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/repos/MubiSays/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
      alt="repos" /></a>
  </p>
 </div>
@@ -73,13 +73,13 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/Mubashirsw27/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashirsw27&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Mubashirsw27 :: Top Langs" /></a>
+          <a href="https://github.com/MubiSays/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubiSays&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Mubashirsw27 :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/Mubashirsw27/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mubashirsw27&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashirsw27&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/MubiSays/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MubiSays&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MubiSays&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -90,7 +90,7 @@
  
   <br/>
   <h2 align="center">📈 Activity Graph</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Mubashirsw27&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=MubiSays&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 
 ------
